@@ -6,3 +6,5 @@ vantagens/desvantangens de usar ou nâo a Azure, alem de saber fazer um orçamet
 aprendendo tambem formas de gerenciar a nuvem dentro de uma organização.
 entendo um SLA, que a garantia de servico, alem da disponibilidade medido por 99%....
 criacao de maquinas virtuais.
+Tipos de servicos em nuvem: IaaS, PaaS e SaaS.
+introducao ao banco de dados SQL.
